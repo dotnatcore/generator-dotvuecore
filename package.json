@@ -1,0 +1,22 @@
+{
+  "name": "generator-dotvuecore",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "generators"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "asp.net core",
+    "vue.js",
+    "quasar-framework"
+  ],
+  "author": "Narongchai Thongkongkeaw",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
