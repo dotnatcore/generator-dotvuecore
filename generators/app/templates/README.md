@@ -1,0 +1,2 @@
+<%= solutionName %>
+<%= webProjectName %>

@@ -1,0 +1,10 @@
+{
+    "name": "ASP.NET Core Mvc Website",
+    "description": "ASP.NET Core mvc website using Asp.Net Core",
+    "website": "http://www.selcukermaya.com/en/",
+    "repository": "https://github.com/knodejs/VueDotnetCore",
+    "keywords": ["aspnet core", "aspnet core mvc", "aspnet core heroku", "heroku"],
+    "buildpacks": [{
+        "url": "https://github.com/se/heroku-core"
+    }]
+}
